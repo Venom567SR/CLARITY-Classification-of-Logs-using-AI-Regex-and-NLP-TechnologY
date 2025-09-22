@@ -1,1 +1,1 @@
-# CLARITY-Classification-of-Logs-using-AI-Regex-and-NLP-TechnologY-
+# CLARITY-Classification-of-Logs-using-AI-Regex-and-NLP-TechnologY
